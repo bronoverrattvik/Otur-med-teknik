@@ -13,4 +13,27 @@ Samla ihop följande:
 * Dator
 * Material för att bygga en monolit för mikrofonen att vila på
 
-<img src="images/inspelning/mikrofon.jpg" height="250" /> <img src="images/inspelning/kabel.jpg" height="250" /> <img src="images/inspelning/splittad_kabel.jpg" height="250" /> <img src="images/inspelning/puffskydd.jpg" height="250" /> <img src="images/inspelning/horselkapor.jpg" height="250" />
+<figure>
+  <img src="images/inspelning/mikrofon.jpg" height="250" />
+  <figcaption>Mikrofon</figcaption>
+</figure> 
+<figure>
+  <img src="images/inspelning/kabel.jpg" height="250" />
+  <figcaption>Mikrofonsladd</figcaption>
+</figure> 
+<figure>
+  <img src="images/inspelning/splittad_kabel.jpg" height="250" />
+  <figcaption>Tudelad sladd</figcaption>
+</figure> 
+<figure>
+  <img src="images/inspelning/puffskydd.jpg" height="250" />
+  <figcaption>Puffskydd</figcaption>
+</figure> 
+<figure>
+  <img src="images/inspelning/horselkapor.jpg" height="250" />
+  <figcaption>Hörselkåpor</figcaption>
+</figure> 
+
+## Montering
+
+1. Koppla in mikrofonsladded
