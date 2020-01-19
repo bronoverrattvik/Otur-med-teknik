@@ -45,7 +45,7 @@ Mikrofon | Mikrofonsladd | Tudelad sladd | Puffskydd | Hörselkåpor
 10. Gå till **Ljud ut**-fliken
 11. Sänk volymen så att du precis hör oss andra
 
-![](images/installningar/ljudinstallningar.png)
+![](images/inspelning/ljudinstallningar.png)
 
 ## Inspelning
 
