@@ -58,4 +58,4 @@ Mikrofon | Mikrofonsladd | Tudelad sladd | Puffskydd | Hörselkåpor
 1. Spara filen i **QuickTime Player** med ditt namn och dagens avsnitt, t ex *"bor_mattias_e07"*
 2. Komprimera filen till en zip-fil
 3. Gå till https://mega.nz/fm/shares och ladda upp zip-filen
-
+4. Kontakta Oskar när filen har laddats upp
