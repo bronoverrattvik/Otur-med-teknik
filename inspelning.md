@@ -59,3 +59,5 @@ Mikrofon | Mikrofonsladd | Tudelad sladd | Puffskydd | Hörselkåpor
 2. Komprimera filen till en zip-fil
 3. Gå till https://mega.nz/fm/shares och ladda upp zip-filen
 4. Kontakta Oskar när filen har laddats upp
+
+<small>Lösen: mattiasarrakadiroven</small>
