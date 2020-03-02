@@ -39,10 +39,10 @@ Mikrofon | Mikrofonsladd | USB-kontakt | Puffskydd | Hörselkåpor
 4. Öppna datorns inställningar (klicka på äpplet längst upp till vänster och välj **Systeminställningar**)
 5. Gå till **Ljud**-inställningar
 6. Gå till **Ljud in**-fliken
-7. Säkerställ att det står *Extern mikrofon* i listan
+7. Säkerställ att det står *USB PnP Sound Device* i listan
 8. Ställ in volymen så att handtaget är ungefär som på bilden nedan
-9. Klicka ur *Använd brusreduktion för omgivningsljud*
-10. Gå till **Ljud ut**-fliken
+9. Gå till **Ljud ut**-fliken
+10. Säkerställ att det står *USB PnP Sound Device* i listan
 11. Sänk volymen så att du precis hör oss andra
 
 ![](images/inspelning/ljudinstallningar.png)
