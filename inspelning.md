@@ -6,7 +6,7 @@ Samla ihop följande:
 
 * Mikrofon
 * Mikrofonsladd
-* Tudelad sladd
+* USB-kontakt
 * Puffskydd
 * Små hörlurar
 * Hörselkåpor
@@ -14,16 +14,16 @@ Samla ihop följande:
 * Material för att bygga en monolit för mikrofonen att vila på
 * Underlägg för eventuell dryck
 
-<img src="images/inspelning/mikrofon.jpg" height="250" /> | <img src="images/inspelning/kabel.jpg" height="250" /> | <img src="images/inspelning/splittad_kabel.jpg" height="250" /> | <img src="images/inspelning/puffskydd.jpg" height="250" /> | <img src="images/inspelning/horselkapor.jpg" height="250" />
+<img src="images/inspelning/mikrofon.jpg" height="250" /> | <img src="images/inspelning/kabel.jpg" height="250" /> | <img src="images/inspelning/usb.jpg" height="250" /> | <img src="images/inspelning/puffskydd.jpg" height="250" /> | <img src="images/inspelning/horselkapor.jpg" height="250" />
 ------------ | ------------- | ------------- | ------------- | -------------
-Mikrofon | Mikrofonsladd | Tudelad sladd | Puffskydd | Hörselkåpor 
+Mikrofon | Mikrofonsladd | USB-kontakt | Puffskydd | Hörselkåpor 
 
 ## Montering
 
 1. Koppla in mikrofonen i mikrofonsladden
-2. Koppla in mikrofonsladden i den tudelade sladdens röda kontakt
-3. Koppla in dina små hörlurar i den tudelade sladdens gröna kontakt
-4. Koppla in den tudelade sladden i din dators hörlursuttag
+2. Koppla in mikrofonsladden i USB-kontaktens hål som är märkt med en mikrofon
+3. Koppla in dina små hörlurar i USB-kontaktens hål som är märkt med en hörlur
+4. Koppla in USB-kontakten i din dator
 5. Bygg en monolit för mikrofonen att vila på
 6. Fäst puffskyddet i monoliten så att den är mellan mikrofonen och din mun
 7. Se till att ingen del av din kropp vidrör monoliten, mikrofonen eller puffskyddet
