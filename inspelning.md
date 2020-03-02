@@ -51,10 +51,9 @@ Mikrofon | Mikrofonsladd | USB-kontakt | Puffskydd | Hörselkåpor
 
 1. Öppna **QuickTime Player** genom att klicka på förstoringsglaset längst upp till höger i datorn och börja skriv "Quicktime"
 2. Gå till *Arkiv* > *Ny ljudinspelning*
-3. Klicka på den nedåtriktade pilen bredvid den röda runda inspelningsknappen och säkerställ att:
- * *USB PnP Sound Device* är valt
- * *Maximal* är valt
-4. Starta inspelningen
+3. Klicka på den nedåtriktade pilen bredvid den röda runda inspelningsknappen och säkerställ att *USB PnP Sound Device* är valt
+4. Säkerställ även att *Maximal* är valt
+5. Starta inspelningen
 
 ## Efterspel
 
