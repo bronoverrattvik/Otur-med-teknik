@@ -49,16 +49,20 @@ Mikrofon | Mikrofonsladd | USB-kontakt | Puffskydd | Hörselkåpor
 
 ## Inspelning
 
-1. Öpnna **QuickTime Player**
-2. Klicka på den nedåtriktade pilen bredvid den röda runda inspelningsknappen och säkerställ att *Maximal* är valt
-3. Starta inspelningen
+1. Öppna **QuickTime Player** genom att klicka på förstoringsglaset längst upp till höger i datorn och börja skriv "Quicktime"
+2. Gå till *Arkiv* > *Ny ljudinspelning*
+3. Klicka på den nedåtriktade pilen bredvid den röda runda inspelningsknappen och säkerställ att:
+ * *USB PnP Sound Device* är valt
+ * *Maximal* är valt
+4. Starta inspelningen
 
 ## Efterspel
 
-1. Spara filen i **QuickTime Player** med ditt namn och dagens avsnitt, t ex *"bor_mattias_e07"*
-2. Komprimera filen till en zip-fil
-3. Gå till https://mega.nz/fm/69ZGjIoJ
-4. Klicka på "File Upload" och välj zip-filen
-5. Kontakta Oskar när filen har laddats upp
+1. Spara filen i **QuickTime Player** med ditt namn och dagens avsnitt, t ex *"bor_mattias_e07"* på skrivbordet
+2. Gå till skrivbordet i Finder
+3. Ctrl+klicka på filen och välj "Komprimera" filen till en zip-fil
+4. Gå till https://mega.nz/fm/69ZGjIoJ
+5. Klicka på "File Upload" och välj zip-filen
+6. Kontakta Oskar när filen har laddats upp
 
 ![](images/inspelning/mega.jpg)
