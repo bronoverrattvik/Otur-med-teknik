@@ -53,7 +53,7 @@ Mikrofon | Mikrofonsladd | USB-kontakt | Puffskydd | Hörselkåpor
 2. Gå till *Arkiv* > *Ny ljudinspelning*
 3. Klicka på den nedåtriktade pilen bredvid den röda runda inspelningsknappen och säkerställ att *USB PnP Sound Device* är valt
 4. Säkerställ även att *Maximal* är valt
-5. Starta inspelningen
+5. Starta inspelningen **omedelbart**!
 
 ## Efterspel
 
