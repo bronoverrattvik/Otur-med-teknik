@@ -7,4 +7,5 @@
 5. Spelar Erik in? Snurrar räkneverket?
 6. Spelar Mattias in? Snurrar räkneverket?
 7. Spelar Oskar in?
-8. Klapp
+8. Spelas stereo mix in?
+9. Klapp
