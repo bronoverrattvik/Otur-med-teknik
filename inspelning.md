@@ -67,7 +67,7 @@ Mikrofon | Mikrofonsladd | USB-kontakt | Puffskydd | Hörselkåpor
    2.4. *USB PnP Sound Device*
 3. Längst upp näst längst till höger finns ett reglage för *Inspelningsvolym*, dra ner det så att värdet blir **N.NN** (TODO: testa värde)
 4. Längst upp längst till höger  finns ett reglage för *Uppspelningsvolym*, dra ner det så att du precis hör oss andra
-5. Tryck på den röda inspelningsknapen
+5. Tryck på den röda inspelningsknapen **omedelbart**!
 
 ## Spara inspelning
 
