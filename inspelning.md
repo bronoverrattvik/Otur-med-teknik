@@ -61,10 +61,10 @@ Mikrofon | Mikrofonsladd | USB-kontakt | Puffskydd | Hörselkåpor
 ### PC/Windows
 1. Öppna **Audacity** genom att leta upp det i startmenyn eller genom att söka
 2. Säkerställ att följande värden är valda i dropdownsen, från vänster till höger:
-   2.1. *Windows DirectSound*
-   2.2. *USB PnP Sound Device*
-   2.3. *1 (mono) inspelningskanal*
-   2.4. *USB PnP Sound Device*
+   * *Windows DirectSound*
+   * *USB PnP Sound Device*
+   * *1 (mono) inspelningskanal*
+   * *USB PnP Sound Device*
 3. Längst upp näst längst till höger finns ett reglage för *Inspelningsvolym*, dra ner det så att värdet blir **N.NN** (TODO: testa värde)
 4. Längst upp längst till höger  finns ett reglage för *Uppspelningsvolym*, dra ner det så att du precis hör oss andra
 5. Tryck på den röda inspelningsknapen **omedelbart**!
