@@ -74,7 +74,7 @@ Mikrofon | Mikrofonsladd | USB-kontakt | Puffskydd | Hörselkåpor
 ### Mac
 1. Spara filen i **QuickTime Player** med ditt namn och dagens avsnitt, t ex *"bor_mattias_e07"* på skrivbordet
 2. Gå till skrivbordet i Finder
-3. Ctrl+klicka på filen och välj "Komprimera" filen till en zip-fil
+3. Håll nere <kbd>Ctrl</kbd> och klicka på filen och välj "Komprimera" filen till en zip-fil
 
 ### PC/Windows
 1. I **Audacity**, välj *Arkiv* > *Exportera* > *Exportera som WAV*
